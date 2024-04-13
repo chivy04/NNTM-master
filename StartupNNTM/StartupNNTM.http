@@ -1,0 +1,6 @@
+@StartupNNTM_HostAddress = http://localhost:5281
+
+GET {{StartupNNTM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
